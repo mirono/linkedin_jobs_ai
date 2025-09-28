@@ -9,3 +9,5 @@
 [חלק 3 - embeddings](part-03/README.md)
 
 [חלק 4 - שימוש בכלים](part-04/README.md)
+
+[חלק 5 - MCP](part-05/README.md)
